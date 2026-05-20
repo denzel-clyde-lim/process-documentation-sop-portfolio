@@ -5,6 +5,10 @@ Portfolio sample demonstrating SOP writing, process documentation, digital platf
 
 This is a sanitized portfolio sample demonstrating SOP writing, process documentation, digital platform setup, and knowledge transfer skills.
 
+## View Portfolio Sample
+
+[View the YouTube Channel Setup SOP PDF](./youtube-channel-setup-sop-portfolio-sample.pdf)
+
 ## Project Overview
 
 This document outlines a step-by-step Standard Operating Procedure (SOP) for setting up a YouTube channel that complements an existing Facebook travel community.
