@@ -7,7 +7,7 @@ This is a sanitized portfolio sample demonstrating SOP writing, process document
 
 ## View Portfolio Sample
 
-[View the YouTube Channel Setup SOP PDF](./youtube-channel-setup-sop-portfolio-sample.pdf)
+[View the YouTube Channel Setup SOP PDF](./YouTube_Channel_Setup_SOP_Portfolio_Sample_Denzel_Lim.pdf)
 
 ## Project Overview
 
